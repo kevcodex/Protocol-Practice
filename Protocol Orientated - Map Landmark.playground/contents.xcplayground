@@ -3,6 +3,6 @@
     <pages>
         <page name='landmark struct'/>
         <page name='landmark Protocol'/>
-        <page name='landmark Mod'/>
+        <page name='landmark Protocol MkAnno like'/>
     </pages>
 </playground>
